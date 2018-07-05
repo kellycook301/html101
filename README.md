@@ -1,4 +1,6 @@
 # html101
 ## Simple intro to HTML
 
-## Also includes base?
+## Also includes basic CSS.
+
+## Also has images, my dude.
